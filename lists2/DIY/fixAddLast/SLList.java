@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  public class SLList {
+=======
+public class SLList {
+>>>>>>> 5070ca8da2cd47b168ebbef8574047df39385c26
     public class IntNode {
         public int item;
         public IntNode next;
